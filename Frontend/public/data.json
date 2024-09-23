@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "name": "1984",
+      "title": "Nineteen Eighty-Four",
+      "price": 29.99,
+      "category": "Dystopian",
+      "image": "https://cdn.kobo.com/book-images/c9472126-7f96-402d-ba57-5ba4c0f4b238/353/569/90/False/nineteen-eighty-four-1984-george.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Sapiens",
+      "title": "Sapiens: A Brief History of Humankind",
+      "price": 39.99,
+      "category": "Non-fiction",
+      "image": "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/480xAny/5/0/2/512502_cover2_895136.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Harry Potter and the Philosopher's Stone",
+      "title": "Harry Potter",
+      "price": 19.99,
+      "category": "Fantasy",
+      "image": "https://m.media-amazon.com/images/I/81q77Q39nEL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 4,
+      "name": "To Kill a Mockingbird",
+      "title": "To Kill a Mockingbird",
+      "price": 24.99,
+      "category": "Classic",
+      "image": "https://m.media-amazon.com/images/I/81gepf1eMqL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 5,
+      "name": "The Great Gatsby",
+      "title": "The Great Gatsby",
+      "price": 14.99,
+      "category": "Free",
+      "image": "https://m.media-amazon.com/images/I/71ptoyWH8dL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Brave New World",
+      "title": "Brave New World",
+      "price": 27.50,
+      "category": "Dystopian",
+      "image": "https://m.media-amazon.com/images/I/81zE42gT3xL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 7,
+      "name": "The Catcher in the Rye",
+      "title": "The Catcher in the Rye",
+      "price": 22.99,
+      "category": "Classic",
+      "image": "https://m.media-amazon.com/images/I/91fQEUwFMyL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 8,
+      "name": "The Hobbit",
+      "title": "The Hobbit",
+      "price": 19.49,
+      "category": "Fantasy",
+      "image": "https://m.media-amazon.com/images/I/712cDO7d73L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Moby Dick",
+      "title": "Moby Dick",
+      "price": 18.99,
+      "category": "Adventure",
+      "image": "https://m.media-amazon.com/images/I/81R91ODA9DL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Pride and Prejudice",
+      "title": "Pride and Prejudice",
+      "price": 15.99,
+      "category": "Free",
+      "image": "https://img.kitapyurdu.com/v1/getImage/fn:9677897/wh:true/wi:800"
+    },
+    {
+      "id": 11,
+      "name": "The Lord of the Rings",
+      "title": "The Fellowship of the Ring",
+      "price": 35.99,
+      "category": "Fantasy",
+      "image": "https://m.media-amazon.com/images/I/71Ep7UNeTtL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 12,
+      "name": "The Alchemist",
+      "title": "The Alchemist",
+      "price": 17.99,
+      "category": "Free",
+      "image": "https://cdn.kobo.com/book-images/32ad8373-9cc5-4c4f-aa82-8155edbc7029/1200/1200/False/the-alchemist-a-graphic-novel.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Crime and Punishment",
+      "title": "Crime and Punishment",
+      "price": 20.99,
+      "category": "Classic",
+      "image": "https://m.media-amazon.com/images/I/612KmKeEYEL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Animal Farm",
+      "title": "Animal Farm",
+      "price": 12.99,
+      "category": "Free",
+      "image": "https://m.media-amazon.com/images/I/61KPPB-34FL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 15,
+      "name": "War and Peace",
+      "title": "War and Peace",
+      "price": 29.50,
+      "category": "Historical Fiction",
+      "image": "https://m.media-amazon.com/images/I/81oHM-dzefL._AC_UF1000,1000_QL80_.jpg"
+    }
+  ]
+  
